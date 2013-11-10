@@ -86,4 +86,8 @@ public class DoubleListNode<K> {
 	public int getPriority() {
 		return this.priority;
 	}
+
+	public void setPriority(int priori) {
+		this.priority = priori;
+	}
 }
